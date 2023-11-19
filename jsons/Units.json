@@ -5,6 +5,7 @@
   "requiredTech": "Railroads",
   "cost": "280",
   "movement": 1,
+  "Promotions": "Train ability",
   "upgradesTo": "Armored Train",
   "uniques": ["[All] adjacent units heal [+20] HP when healing", "[+4] Movement <in [Railroad] tiles"]
 },
@@ -14,6 +15,7 @@
 "movement": 1,
 "strength": 40,
 "cost": 320,
+"Promotions": "Train ability",
 "requiredTech": "Combustion",
 "upgrades to": "Railway Gun"
 "uniques":["[All] adjacent units heal [+25] HP when healing", "[+4] Movement <in [Railroad] tiles", "No defensive terrain bonus", "Can only attack [Land] tiles", "Never appears as a Barbarian unit"],
