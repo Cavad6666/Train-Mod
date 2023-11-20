@@ -5,7 +5,7 @@
   "requiredTech": "Railroads",
   "cost": "280",
   "movement": 1,
-  "Promotions": ["Train ability"],
+  "promotions": ["Train ability"],
   "upgradesTo": "Armored Train",
   "uniques": ["[+4] Movement <in [Railroad] tiles"]
 },
@@ -15,7 +15,7 @@
 "movement": 1,
 "strength": 40,
 "cost": 320,
-"Promotions": ["Train ability"],
+"promotions": ["Train ability"],
 "requiredTech": "Combustion",
 "upgrades to": "Railway Gun"
 "uniques":["[+4] Movement <in [Railroad] tiles", "No defensive terrain bonus", "Can only attack [Land] tiles", "Never appears as a Barbarian unit"],
