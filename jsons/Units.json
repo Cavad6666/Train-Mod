@@ -1,6 +1,6 @@
 [
 {
-"name": "Train"
+  "name": "Train"
   "unitType": "Civilian",
   "requiredTech": "Railroads",
   "cost": "280",
@@ -10,29 +10,29 @@
   "uniques": ["[+4] Movement <in [Railroad] tiles"]
 },
 {
-"name": "Armored Train"
-"unitType": "Armored",
-"movement": 1,
-"strength": 40,
-"cost": 320,
-"promotions": ["Train ability"],
-"requiredTech": "Combustion",
-"upgrades to": "Railway Gun"
-"uniques":["[+4] Movement <in [Railroad] tiles", "No defensive terrain bonus", "Can only attack [Land] tiles", "Never appears as a Barbarian unit"],
-"attackSound": "tankshot"
+  "name": "Armored Train"
+  "unitType": "Armored",
+  "movement": 1,
+  "strength": 40,
+  "cost": 320,
+  "promotions": ["Train ability"],
+  "requiredTech": "Combustion",
+  "upgrades to": "Railway Gun"
+  "uniques":["[+4] Movement <in [Railroad] tiles", "No defensive terrain bonus", "Can only attack [Land] tiles", "Never appears as a Barbarian unit"],
+  "attackSound": "tankshot"
 },
 {
-"name": "Railway Gun"
-"unitType": "Siege"
-"requiredTech": "Combustion",
-"Movement":1,
-"strength": 40,
-"rangedStrength": 50
-"range": 3
-"cost": 375,
-"requiredTech": "Combined Arms"
-"uniques":["[+4] Movement <in [Railroad] tiles", "No defensive terrain bonus", "[+200]% Strength <vs cities> <when attacking>", "[-1] Sight", "Consumes [4] [Iron]", "Never appears as a Barbarian unit"],
-"promotions": ["Indirect Fire"],
-"attackSound": "artillery"
+  "name": "Railway Gun"
+  "unitType": "Siege"
+  "requiredTech": "Combustion",
+  "Movement":1,
+  "strength": 40,
+  "rangedStrength": 50
+  "range": 3
+  "cost": 375,
+  "requiredTech": "Combined Arms"
+  "uniques":["[+4] Movement <in [Railroad] tiles", "No defensive terrain bonus", "[+200]% Strength <vs cities> <when attacking>", "[-1] Sight", "Consumes [4] [Iron]", "Never appears as a Barbarian unit"],
+  "promotions": ["Indirect Fire"],
+  "attackSound": "artillery"
 }
 ]
